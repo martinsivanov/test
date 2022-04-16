@@ -9,5 +9,6 @@
     internal class test
     {
         public int MyProperty { get; set; }
+        public int second { get; set; }
     }
 }
