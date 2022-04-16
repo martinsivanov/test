@@ -10,5 +10,6 @@
     {
         public int MyProperty { get; set; }
         public int second { get; set; }
+        public int third { get; set; }
     }
 }
