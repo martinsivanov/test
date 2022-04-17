@@ -9,6 +9,5 @@
     internal class person
     {
         public string FullName { get; set; }
-        public string age { get; set; }
     }
 }
