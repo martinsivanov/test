@@ -8,6 +8,6 @@
 
     public class classByIssue
     {
-        public int MyProperty { get; set; }
+        public int Id { get; set; }
     }
 }
