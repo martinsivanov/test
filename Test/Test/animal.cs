@@ -8,7 +8,7 @@
 
     internal class animal
     {
-        public int MyProperty { get; set; }
-        public int second { get; set; }
+        public int Id { get; set; }
+        public int Name { get; set; }
     }
 }
