@@ -6,8 +6,12 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    internal class classByMain
+    public class classByIssue
     {
+        public classByIssue()
+        {
+
+        }
         public int test { get; set; }
     }
 }
