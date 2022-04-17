@@ -9,5 +9,6 @@
     internal class animal
     {
         public int MyProperty { get; set; }
+        public int second { get; set; }
     }
 }

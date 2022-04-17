@@ -8,10 +8,6 @@
 
     public class classByIssue
     {
-        public classByIssue()
-        {
 
-        }
-        public int test { get; set; }
     }
 }
