@@ -8,5 +8,6 @@
 
     internal class classByMain
     {
+        public int test { get; set; }
     }
 }
