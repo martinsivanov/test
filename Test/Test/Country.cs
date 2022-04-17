@@ -9,5 +9,6 @@
     internal class Country
     {
         public int Id { get; set; }
+        public int Name { get; set; }
     }
 }
